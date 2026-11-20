@@ -18,6 +18,14 @@
 
 ![任务看板 / Codex](media/board.png)
 
+## 看图了解任务台
+
+一条“做北线补水卡”的编辑需求，经会话归集自动进入春季刊项目。也可以在底部快捷框写说明、拖入附件，再按 Ctrl+Enter 建卡。
+
+[查看五个功能页、两条操作流程和 DSH 预览](media/launch/tour/README.md) · [下载九图素材](https://github.com/JKZeng-cell/moki-taskboard/releases/download/v0.2.23/moki-taskboard-gallery-zh.zip)
+
+[![MOKI Taskboard · Feature tour](media/launch/tour/preview.jpg)](media/launch/tour/README.md)
+
 ## 安装
 
 使用 Windows Codex 桌面、支持插件命令的 Codex CLI 和 Node.js 24 或更高版本。确保桌面进程能在 PATH 中找到 node；首次安装 Node 后重启桌面应用。
@@ -41,4 +49,4 @@ node --experimental-strip-types --test ports/dsh/adapter.test.mjs
 
 [DSH 版与安装包](https://github.com/JKZeng-cell/moki-taskboard-for-dsh)
 
-[项目配图与文案 · Launch media kit](https://github.com/JKZeng-cell/moki-taskboard/tree/v0.2.23/media/launch)
+[项目配图与文案 · Launch media kit](https://github.com/JKZeng-cell/moki-taskboard/tree/main/media/launch)

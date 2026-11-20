@@ -18,6 +18,14 @@ The project database and managed files live on your machine. Agent execution and
 
 ![任务看板 / Codex](media/board.png)
 
+## Illustrated tour
+
+See an editorial request turn into a project task through session capture. For quick entry, type a brief, attach a file, and press Ctrl+Enter to save a to-do.
+
+[Explore the five screens, both workflows and DSH file preview](media/launch/tour/README.en.md) · [Download the nine plates](https://github.com/JKZeng-cell/moki-taskboard/releases/download/v0.2.23/moki-taskboard-gallery-zh.zip)
+
+[![MOKI Taskboard · Feature tour](media/launch/tour/preview.jpg)](media/launch/tour/README.en.md)
+
 ## Install
 
 Use Codex Desktop for Windows, a Codex CLI with plugin commands, and Node.js 24 or newer on the desktop process PATH. Restart the desktop app after installing Node.
@@ -41,4 +49,4 @@ node --experimental-strip-types --test ports/dsh/adapter.test.mjs
 
 [DSH edition and downloads](https://github.com/JKZeng-cell/moki-taskboard-for-dsh)
 
-[项目配图与文案 · Launch media kit](https://github.com/JKZeng-cell/moki-taskboard/tree/v0.2.23/media/launch)
+[项目配图与文案 · Launch media kit](https://github.com/JKZeng-cell/moki-taskboard/tree/main/media/launch)
