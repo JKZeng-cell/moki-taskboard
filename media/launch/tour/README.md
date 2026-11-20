@@ -1,5 +1,7 @@
 # MOKI任务台 · 九图导览
 
+[查看新版发布图文与完整界面](../field-guide/README.md)
+
 [English](README.en.md) · [简体中文](README.md)
 
 前五个功能页展示同一本春季刊的项目数据。接下来用两张图拆解自动归集和快捷提交，最后一张展示 DSH 的独立预览区。

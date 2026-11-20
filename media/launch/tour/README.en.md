@@ -1,5 +1,7 @@
 # MOKI Taskboard · Illustrated tour
 
+[See the revised carousel and the full interface walkthroughs](../field-guide/README.md)
+
 [English](README.en.md) · [简体中文](README.md)
 
 Follow a spring field guide through the five main screens, then see a conversation become a task and a draft become a card with an attachment. The final plate shows the DSH file workspace. The screenshots use the Chinese interface.
