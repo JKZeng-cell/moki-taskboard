@@ -1,0 +1,19 @@
+{
+  "name": "moki-taskboard",
+  "version": "0.2.23",
+  "description": "在 Codex 桌面中管理项目、任务、资产和执行验收",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "MOKI任务台 for Codex",
+    "shortDescription": "项目、任务和资产",
+    "developerName": "JKZeng",
+    "category": "Productivity",
+    "brandColor": "#216653",
+    "composerIcon": "./assets/taskboard-mark.png",
+    "logo": "./assets/taskboard-mark.png"
+  },
+  "author": {
+    "name": "JKZeng"
+  },
+  "license": "MIT"
+}

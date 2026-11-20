@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "moki-taskboard": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "--disable-warning=ExperimentalWarning",
+        "./dist/mcp.mjs"
+      ],
+      "cwd": "."
+    }
+  }
+}
